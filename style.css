@@ -1,0 +1,32 @@
+.bg-image{
+    background-image:url("https://res.cloudinary.com/ddjjx7t57/image/upload/v1706592461/zb1cgiuxdtfrnon64lfl.png");
+    background-size:cover;
+    height:100vh;
+    position:relative;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size:130px;
+    text-align:center;
+    color:orange;
+    position:absolute;
+    top:20px;
+    left:700px;
+}
+.mar{
+    margin-top:50px;
+}
+
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size:100px;
+    text-align:center;
+    padding:20px;
+   
+    color:#0089f1;
+    position:absolute;
+    top:5px;
+    left:100px
+
+}
